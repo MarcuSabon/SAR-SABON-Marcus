@@ -1,6 +1,6 @@
 package classwork;
 
-abstract class Task extends Thread {
+public abstract class Task extends Thread {
     Task(Broker b, Runnable r) {
     };
 
