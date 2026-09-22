@@ -1,4 +1,4 @@
-package local.edu.polytech.channels.empty;
+package edu.polytech.channels.local;
 
 import edu.polytech.channels.Broker;
 import edu.polytech.channels.Task;
